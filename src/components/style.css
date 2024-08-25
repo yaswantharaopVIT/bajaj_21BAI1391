@@ -1,0 +1,19 @@
+
+h1, h3{
+    font-size: xx-large;
+    font-weight: bolder;
+}
+
+input{
+    width: 356px;
+    height: 39px;
+    font-size: large;
+    padding: 10px;
+    border: 0.3px solid gray;
+    border-radius: 5px;
+}
+
+.btn{
+    width: 140px;
+    height: 44px;
+}
